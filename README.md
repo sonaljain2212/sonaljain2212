@@ -12,4 +12,4 @@ I'm an aspiring Data Scientist. I am highly motivated individual to apply my dat
 - 🌱 I am currently learning Natural Language Processing and it's various applications.
 - 📫 I'm best reached via **jain.son@northeastern.edu** and also via [LinkedIn](https://www.linkedin.com/in/sjain2212/). I'm always open to interesting conversations and collaboration.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sonaljain2212&show_icons=true" alt="gourang97" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sonaljain2212&show_icons=true" alt="sonaljain2212" /></p>
